@@ -3,7 +3,7 @@ import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar'
 export default function Home() {
   return (
     <>
-      <div className='container my-4'>
+      <div className='container my-14 md:my-22'>
         <div className='space-y-4'>
           <div className='flex items-center md:justify-between flex-col md:flex-row'>
             <div className='flex gap-6 items-center justify-center md:justify-start pb-3 w-[512px]'>
